@@ -1,2 +1,2 @@
 # SequenceSearcher
-Esta libreria tiene como proposito buscar en secuencias dadas en formato Fasta y una region de interes y decir si esta o no dicha variante o region buscada.
+Esta libreria tiene como proposito buscar con una secuencia dada en formato FASTA una serie de nucleotidos buscados y decir si se encuentra en la secuencia o no. 
